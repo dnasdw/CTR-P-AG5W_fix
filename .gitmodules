@@ -1,0 +1,3 @@
+[submodule "exepatch"]
+	path = exepatch
+	url = https://github.com/dnasdw/exepatch.git
